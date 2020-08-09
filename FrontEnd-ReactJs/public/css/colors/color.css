@@ -1,0 +1,144 @@
+
+.toc__item--current .toc__item-title,
+.toc__item:hover.toc__item--current .toc__item-title,
+.arrow-nav__item:hover,
+.menu > ul > li a:hover,
+.menu > ul > li a.curent-page,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li a.curent-page,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li a:hover,
+.cbp-af-header.cbp-af-header-shrink .menu > ul > li > ul > li a:hover,
+.menu > ul > li > ul > li a:hover,
+.room-icons a:hover,
+.social-top:hover,
+.call-top:hover,
+.social-footer-bottom:hover,
+.footer a:hover,
+.list-style.circle li:before,
+.list-style.circle-o li:before,
+.list-style li i,
+.list-style a.btn-link:hover{
+	color: #6dc234;
+}
+.js .loading::after,
+.nav--open .nav__button-text::after,
+.nav--open .nav__button-text::before,
+.nav__chapter:after{
+	background: #6dc234;
+}
+.nice-select .option:hover,
+.nice-select .option.selected:hover,
+.datepicker.dropdown-menu table tr td.day:hover,
+.datepicker.dropdown-menu table tr td.focused, 
+.datepicker.dropdown-menu table tr td.selected, 
+.datepicker.dropdown-menu table tr th.focused, 
+.datepicker.dropdown-menu table tr th.selected,
+.datepicker.dropdown-menu table tr td.active,
+.datepicker.dropdown-menu table tr td.active:focus,
+.datepicker.dropdown-menu table tr td.active.active:hover,
+.datepicker.dropdown-menu table tr td:active:focus,
+.datepicker.dropdown-menu table tr td.highlighted,
+.datepicker.dropdown-menu table tr th.active,
+.datepicker.dropdown-menu table tr th.active:focus,
+.datepicker.dropdown-menu table tr th.active.active:hover,
+.datepicker.dropdown-menu table tr th:active:focus,
+.datepicker.dropdown-menu table tr th.highlighted,
+.datepicker.dropdown-menu table tr td:hover,
+.datepicker.dropdown-menu table tr td.active:hover, 
+.datepicker.dropdown-menu table tr td:active:hover, 
+.datepicker.dropdown-menu table tr th:hover, 
+.datepicker.dropdown-menu table tr th.active:hover, 
+.datepicker.dropdown-menu table tr th:active:hover,
+.booking-button,
+.menu > ul > li a span,
+.btn.btn-primary:hover,
+.subtitle.with-line:after,
+.booking-button-big:hover,
+.lang-wrap ul a:hover,
+.video-button:hover,
+#owl-sep-1.owl-theme .owl-controls .owl-page span:hover,
+#owl-sep-1.owl-theme .owl-controls .owl-page.active span,
+.subscribe-home button:hover,
+.scroll-to-top:hover,
+.loader__figure,
+figure.vimeo:hover a:after, figure.youtube:hover a:after,
+.ajax-form button:hover,
+mark{
+	background-color: #6dc234;
+}
+.range-slider .input-range::-webkit-slider-thumb {
+	background: #6dc234;
+}
+.range-slider .input-range::-webkit-slider-thumb:hover {
+	background: #6dc234;
+}
+.range-slider .input-range:active::-webkit-slider-thumb {
+	background: #6dc234;
+}
+.range-slider .input-range::-moz-range-thumb {
+	background: #6dc234;
+}
+.range-slider .input-range::-moz-range-thumb:hover {
+	background: #6dc234;
+}
+.range-slider .input-range:active::-moz-range-thumb {
+	background: #6dc234;
+}
+.nice-select:active, 
+.nice-select.open, 
+.nice-select:focus,
+#flight-datepicker input:focus,
+#flight-datepicker-1 input:focus,
+#flight-datepicker-1 input:active,
+.checkbox:checked:before{
+	border-color: #6dc234;
+}
+figure.vimeo a:before, figure.youtube a:before {
+	border-left: 8px solid #6dc234;
+}
+.ajax-form textarea:focus,
+.ajax-form input:focus,
+.ajax-form textarea:active,
+.ajax-form input:active {	
+	border-bottom:1px solid #6dc234;
+}
+.blockquote{
+	border-left: 0.4rem solid #6dc234;
+}
+.blockquote-reverse{
+	border-right: 0.4rem solid #6dc234;
+}
+.form-control:focus,
+.form-control:active{
+	border-color: #6dc234;
+} 
+
+::selection {
+	background-color: #6dc234;
+}
+::-moz-selection {
+	background-color: #6dc234;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
