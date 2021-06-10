@@ -1,5 +1,5 @@
 # ReactJs-Redux-SpringBoot-Hotel-Management
--la conception et l’implémentation d’une application de gestion de réservation hôtelière qui prendra en compte toutes les contraintes qui peuvent survenir lorsqu’un agent hôtelier établi des réservations. À travers notre application, il est possible de vérifier la liste des chambres disponible selon les critères souhaités par le client ainsi de les réserver afin d’être occupés ultérieurement.
+-- la conception et l’implémentation d’une application de gestion de réservation hôtelière qui prendra en compte toutes les contraintes qui peuvent survenir lorsqu’un agent hôtelier établi des réservations. À travers notre application, il est possible de vérifier la liste des chambres disponible selon les critères souhaités par le client ainsi de les réserver afin d’être occupés ultérieurement.
 
 ![alt tag](https://img.icons8.com/ios/30/000000/programming.png) Langages et frameworks utilisé:
 #### #SpringBoot, Hibernate, ReactJs/Redux.
